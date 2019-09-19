@@ -25,6 +25,17 @@ pod 'DrawerController', '~> 4.0'
 github "sascha/DrawerController"
 ````
 
+### Swift Package Manager:
+
+Add the following line to your `Package.swift`:
+
+```swift
+dependencies: [
+    // ...
+    .package(url: "https://github.com/Wistas23/DrawerController.git"),
+],
+```
+
 ---
 ## Credit
 
